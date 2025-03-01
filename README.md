@@ -40,7 +40,7 @@ Hello! My name is Sumit Kumar, and I am a tech enthusiast with a background in s
 - **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/Football_Transfers)](#)
 
 
-### 1. University Rankings Explorer: A Global Analysis
+### 2. University Rankings Explorer: A Global Analysis
 - **Description:** World University Ranking was analysed in order to practise Python Data Analysis libraries and find out about the classification of the university in the world.
 World University Ranking and Shanghai Ranking were used to analyze. Then, these rankings were compared between selected countries.
 - **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
@@ -54,7 +54,7 @@ World University Ranking and Shanghai Ranking were used to analyze. Then, these 
 - **Description:** An end-to-end ML pipeline for classifying breast cancer data using Gradient Boosting Classifier.
 - **Key Features:** Data splitting, model training, hyperparameter tuning, and performance evaluation using ROC-AUC and confusion matrices.
 - **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib
-- **Repository:** [GitHub Link](#)
+- **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/World_University_Ranking)](#)
 
 ### 2. Customer Churn Prediction & Other Predictive Models
 - **Description:** Multiple projects focusing on predictive analytics such as customer churn prediction, travel insurance prediction, and more.
