@@ -1,5 +1,5 @@
 # Full-Stack-Data-AI-Engineer-Portfolio
-# [Your Name] - Full-Stack Data & AI Engineer Portfolio
+# Sumit Kumar - Full-Stack Data & AI Engineer Portfolio
 
 Welcome to my project portfolio! I am a passionate engineer with expertise in Data Analysis, Machine Learning, Deep Learning, Computer Vision, Data Engineering, Generative AI, and AI Agent systems. My work spans from building robust data pipelines and predictive models to developing intelligent multi-agent systems for real-world applications.
 
@@ -7,13 +7,13 @@ Welcome to my project portfolio! I am a passionate engineer with expertise in Da
 
 ## About Me
 
-- **Based:** [Your City, Country]
-- **Current Role:** [Your Current Job Title, e.g., Data Engineer | AI/NLP Engineer]
-- **Contact:** [Your Phone Number] | [Your Email Address]
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub URL]
+- **Based:** [Bijnor, India]
+- **Current Role:** [ML Intern]
+- **Contact:** [+91 7503112577] | [Sumitkumar969074@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/sumit-kumar-02a145239/]  
+- **GitHub:** [https://github.com/Sumitkumar005]
 
-Hello! My name is [Your Name], and I am a tech enthusiast with a solid background in software development and a passion for data and AI. My journey started in software engineering and evolved into data science and AI engineering. I excel at constructing scalable data pipelines, developing machine learning models, and building innovative AI systems to solve complex problems. This portfolio highlights my technical skills, projects, and progression in these fields.
+Hello! My name is Sumit Kumar, and I am a tech enthusiast with a background in software development and a passion for data and AI. My journey started in software engineering and evolved into data science and AI engineering. I excel at constructing scalable data pipelines, developing machine learning models, and building innovative AI systems to solve complex problems. This portfolio highlights my technical skills, projects, and progression in these fields.
 
 ---
 
@@ -33,11 +33,18 @@ Hello! My name is [Your Name], and I am a tech enthusiast with a solid backgroun
 
 ## Data Analysis Projects
 
-### 1. Exploratory Data Analysis & Visualization
+### 1. Transfer Tracker: Football Data Insights
 - **Description:** Developed end-to-end pipelines for data cleaning, feature engineering, and exploratory analysis using Python, Pandas, NumPy, and Matplotlib/Seaborn.
 - **Key Features:** Missing value detection, outlier handling, and dynamic dashboards.
 - **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
-- **Repository:** [GitHub Link](#)
+- **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/Football_Transfers)](#)
+
+
+### 1. University Rankings Explorer: A Global Analysis
+- **Description:** World University Ranking was analysed in order to practise Python Data Analysis libraries and find out about the classification of the university in the world.
+World University Ranking and Shanghai Ranking were used to analyze. Then, these rankings were compared between selected countries.
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+- **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/World_University_Ranking)](#)
 
 ---
 
