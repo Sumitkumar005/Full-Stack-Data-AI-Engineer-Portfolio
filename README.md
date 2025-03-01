@@ -1,4 +1,4 @@
-# Full-Stack-Data-AI-Engineer-Portfolio
+
 # Sumit Kumar - Full-Stack Data & AI Engineer Portfolio
 
 Welcome to my project portfolio! I am a passionate engineer with expertise in Data Analysis, Machine Learning, Deep Learning, Computer Vision, Data Engineering, Generative AI, and AI Agent systems. My work spans from building robust data pipelines and predictive models to developing intelligent multi-agent systems for real-world applications.
