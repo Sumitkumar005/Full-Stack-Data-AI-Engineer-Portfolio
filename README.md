@@ -80,18 +80,29 @@ World University Ranking and Shanghai Ranking were used to analyze. Then, these 
 
 ## Data Engineering Projects
 
-### 1. ETL Pipelines & Data Warehousing
-- **Description:** Built scalable ETL pipelines integrating data from multiple sources and loading into data warehouses.
-- **Key Features:** Data extraction, transformation, loading, and real-time processing.
-- **Technologies:** Python, Apache Airflow, SQL, AWS Redshift/BigQuery
-- **Repository:** [GitHub Link](#)
+### 1. Project 1
+- **Description:** It is a IoT Smoke Detection project where data was emitted at high volumne in a continuous, incremental manner with the goal of low-latency processing. Apache Kafka was used to process streaming data in real-time, then data was transformed by Apache Spark and finally loaded to SQL Server.
+- **Technologies:** Python, Apache Airflow, Apache Kafka,Apache Spark, SQL.
+- **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/DataEngineeringProjects/DataEngineeringProject2)](#)
 
-### 2. Billionaire Research And Exploration (Spark SQL / PySpark)
-- **Description:** Analyzing large-scale datasets using PySpark for deep insights.
-- **Technologies:** PySpark, Spark SQL, Python
-- **Repository:** [GitHub Link](#)
+### 2. Project 2
+- **Description:** Data was extracted from websites that holds Currency Exchange Rates for Currencies.
+Data was continously generated. Apache Kafka was used to process streaming data in real-time. These tasks were triggered by Apache Airflow
+Data from Apache Kafka was read as well as transformed by Apache Spark.
+Finally, data was loaded to PostgresSQL.
+Docker was used to run this application in multicontainers.
+- **Technologies:** Python, Apache Airflow, Apache Kafka,Apache Spark,PostgreSQL, Docker.
+- **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/DataEngineeringProjects/DataEngineeringProject3)(#)
+-
+-### 3. Project 3
+- **Description:** US Dollar Exchange Rates Table as well as Percentage Change in the Last 24 Hours Tables were extracted from a website. Data was extracted and loaded to a MinIO bucket using Python.
+This data was also continously generated. Apache Kafka was used to process streaming data in real-time. These tasks were triggered by Apache Airflow
+Data from Apache Kafka was read as well as transformed by Apache Spark.
+Finally, data was loaded to Apache Cassandra.
+Docker was used to run this application in multicontainers.
+- **Technologies:** Python, MinIO, Apache Airflow, Apache Kafka,Apache Spark, Apache Cassandra, docker.
+- **Repository:** [https://github.com/Sumitkumar005/Projects](https://github.com/Sumitkumar005/Projects/tree/main/DataEngineeringProjects/DataEngineeringProject4)(#)
 
----
 
 ## Generative AI Projects
 
