@@ -33,7 +33,7 @@ Hello! My name is Sumit Kumar, and I am a tech enthusiast with a background in s
 
 ## Data Analysis Projects
 
-### 1. Transfer Tracker: Football Data Insights
+### 1. Transfer Tracker: Football Data Insights.
 - **Description:** Developed end-to-end pipelines for data cleaning, feature engineering, and exploratory analysis using Python, Pandas, NumPy, and Matplotlib/Seaborn.
 - **Key Features:** Missing value detection, outlier handling, and dynamic dashboards.
 - **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
